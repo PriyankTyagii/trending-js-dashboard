@@ -47,6 +47,16 @@ Trending in JavaScript aggregates real-time data from two public APIs and presen
 
 ---
 
+## Preview
+
+
+<img width="1603" height="878" alt="image" src="https://github.com/user-attachments/assets/182b136b-c2fc-49aa-aea8-624f876ff6c2" />
+
+<img width="1652" height="860" alt="image" src="https://github.com/user-attachments/assets/12431cb6-7206-4c15-a237-ce66f643bfdf" />
+
+
+---
+
 ## Project Structure
 
 ```
