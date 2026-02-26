@@ -12,6 +12,13 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json());
 
+app.use(cors({
+  origin: [
+    "http://localhost:5173",
+    "https://trending-js-frontend.onrender.com"
+  ]
+}));
+
 // Health check
 app.get("/", (req, res) => {
   res.json({ status: "ok", message: "Trending JS Dashboard API is running" });
