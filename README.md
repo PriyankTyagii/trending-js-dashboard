@@ -1,4 +1,4 @@
-# ⚡ Trending in JavaScript
+#  Trending in JavaScript
 
 A full-stack developer dashboard that surfaces what's trending in the JavaScript ecosystem — top GitHub repositories and hot Dev.to articles, all in one clean interface.
 
